@@ -1,5 +1,10 @@
-### Hi there 👋
+### ✨ Sobre mí
 
+¡Bienvenido a mi perfil de GitHub! Me llamo Laura, y estoy en pleno cambio profesional. Durante más de 5 años, he trabajado en centros de llamadas, tanto como agente como Team Leader. Esta experiencia ha fortalecido mi habilidad para liderar equipos y encontrar satisfacción en logros colectivos. Disfruto del trabajo en equipo y valoro el esfuerzo conjunto.
+
+Mi formación en Filología Inglesa y Estudio de la Literatura añade una dimensión única a mi perspectiva profesional. Esta base académica me brinda una profunda comprensión de las ciencias humanas, lo cual considero un activo al crear interfaces de usuario. La capacidad de entender las necesidades de diversos usuarios es una fortaleza que aplico en el desarrollo web.
+
+Mi interés por la tecnología y los videojuegos me ha llevado a aventurarme como Full Stack Developer. Me encanta enfrentarme a nuevos desafíos y seguir aprendiendo en este apasionante viaje hacia el universo del desarrollo web.
 <!--
 **ImLauraGS/ImLauraGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
