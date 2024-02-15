@@ -1,4 +1,8 @@
-### ✨ Sobre mí
+![Gatitos con ordenador](assets/1705415327901.jpg)
+
+### 🌸Laura Gil Solano🌸
+
+## ✨ Sobre mí
 
 ¡Bienvenido a mi perfil de GitHub! Me llamo Laura, y estoy en pleno cambio profesional. Durante más de 5 años, he trabajado en centros de llamadas, tanto como agente como Team Leader. Esta experiencia ha fortalecido mi habilidad para liderar equipos y encontrar satisfacción en logros colectivos. Disfruto del trabajo en equipo y valoro el esfuerzo conjunto.
 
