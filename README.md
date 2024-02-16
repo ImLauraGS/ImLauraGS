@@ -21,7 +21,6 @@ Mi interés por la tecnología y los videojuegos me ha llevado a aventurarme com
 
 <a href="https://github.com/ImLauraGS">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImLauraGS&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImLauraGS&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImLauraGS&theme=2077" height="180em" />
 </div>
 
