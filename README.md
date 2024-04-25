@@ -1,4 +1,4 @@
-![Gatitos con ordenador](assets/1705415327901.jpg)
+![1714057020106](https://github.com/ImLauraGS/ImLauraGS/assets/135736563/ab6cc836-a712-443b-93dc-f099c4bd1145)
 
 <h1>🌸Laura Gil Solano🌸</h1>
 
