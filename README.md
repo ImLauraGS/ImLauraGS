@@ -20,8 +20,9 @@ Mi interés por la tecnología y los videojuegos me ha llevado a aventurarme com
 </p>
 
 <a href="https://github.com/ImLauraGS">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImLauraGS&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImLauraGS&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImLauraGS&theme=date_night" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImLauraGS&theme=date_night" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImLauraGS&theme=date_night" height="180em"/>
 </div>
 
 
