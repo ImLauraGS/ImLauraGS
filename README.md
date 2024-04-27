@@ -6,7 +6,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Me llamo Laura, y estoy en pleno cambio profesional. Durante más de 5 años, he trabajado en centros de llamadas, tanto como agente como Team Leader. Esta experiencia ha fortalecido mi habilidad para liderar equipos y encontrar satisfacción en logros colectivos. Disfruto del trabajo en equipo y valoro el esfuerzo conjunto.
 
-Mi interés por la tecnología y los videojuegos me ha llevado a aventurarme como Full Stack Developer (aunque debo confesar que estoy algo enamorada de front end). Me encanta enfrentarme a nuevos desafíos y seguir aprendiendo en este apasionante viaje hacia el universo del desarrollo web.
+Mi interés por la tecnología y los videojuegos me ha llevado a aventurarme como Full Stack Developer. Me encanta enfrentarme a nuevos desafíos y seguir aprendiendo en este apasionante viaje hacia el universo del desarrollo web.
 
 ## ✨Contacto✨
 <p align="left"> LinkedIn: 
